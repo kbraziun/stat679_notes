@@ -9,3 +9,14 @@
 - `git diff`: differences between working and staging
   - `git diff --staged`: differences between
   staging and last commit
+
+## how to: initalize a repo on your local machine
+
+- `git init`
+- `git add filenames`
+- `git commit -m "message"`
+
+## important reminders
+
+- use git to mv and rm files! this is the easiest
+  way to track them efficiently
