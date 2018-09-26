@@ -20,4 +20,14 @@
 
 - use git to mv and rm files! this is the easiest
   way to track them efficiently
+
+
+## how to: track/share in github repository
+
+- add new repository on github, can add .gitignore 
+  and readme at this point
+- `git remote add git@github.com...`
+- `git remote -v`: to check it is set up correctly
+- `git branch`: check branch name
+- `git push origin master`: push local repo to github
   
